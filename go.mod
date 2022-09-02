@@ -1,4 +1,4 @@
-module github.com/n-young/goo
+module github.com/robertylewis/goo
 
 go 1.18
 

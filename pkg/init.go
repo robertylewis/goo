@@ -23,7 +23,7 @@ func Init() {
 }
 
 const initSite string = `
-# See https://github.com/n-young/goo for documentation!
+# See https://github.com/robertylewis/goo for documentation!
 
 # Specify site name, output folder, static folder.
 name: My Goo Site

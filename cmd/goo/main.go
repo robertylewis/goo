@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	goo "github.com/n-young/goo/pkg"
+	goo "github.com/robertylewis/goo/pkg"
 )
 
 // Main entry.
